@@ -1,0 +1,15 @@
+C:\Users\Niels.niels-pc\source\repos\romannumbers\obj\Debug\net6.0\romannumbers.csproj.AssemblyReference.cache
+C:\Users\Niels.niels-pc\source\repos\romannumbers\obj\Debug\net6.0\romannumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niels.niels-pc\source\repos\romannumbers\obj\Debug\net6.0\romannumbers.AssemblyInfoInputs.cache
+C:\Users\Niels.niels-pc\source\repos\romannumbers\obj\Debug\net6.0\romannumbers.AssemblyInfo.cs
+C:\Users\Niels.niels-pc\source\repos\romannumbers\obj\Debug\net6.0\romannumbers.csproj.CoreCompileInputs.cache
+C:\Users\Niels.niels-pc\source\repos\romannumbers\bin\Debug\net6.0\romannumbers.exe
+C:\Users\Niels.niels-pc\source\repos\romannumbers\bin\Debug\net6.0\romannumbers.deps.json
+C:\Users\Niels.niels-pc\source\repos\romannumbers\bin\Debug\net6.0\romannumbers.runtimeconfig.json
+C:\Users\Niels.niels-pc\source\repos\romannumbers\bin\Debug\net6.0\romannumbers.dll
+C:\Users\Niels.niels-pc\source\repos\romannumbers\bin\Debug\net6.0\romannumbers.pdb
+C:\Users\Niels.niels-pc\source\repos\romannumbers\obj\Debug\net6.0\romannumbers.dll
+C:\Users\Niels.niels-pc\source\repos\romannumbers\obj\Debug\net6.0\refint\romannumbers.dll
+C:\Users\Niels.niels-pc\source\repos\romannumbers\obj\Debug\net6.0\romannumbers.pdb
+C:\Users\Niels.niels-pc\source\repos\romannumbers\obj\Debug\net6.0\romannumbers.genruntimeconfig.cache
+C:\Users\Niels.niels-pc\source\repos\romannumbers\obj\Debug\net6.0\ref\romannumbers.dll
