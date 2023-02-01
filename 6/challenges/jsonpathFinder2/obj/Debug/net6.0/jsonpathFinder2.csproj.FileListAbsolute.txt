@@ -1,0 +1,17 @@
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\bin\Debug\net6.0\jsonpathFinder2.exe
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\bin\Debug\net6.0\jsonpathFinder2.deps.json
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\bin\Debug\net6.0\jsonpathFinder2.runtimeconfig.json
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\bin\Debug\net6.0\jsonpathFinder2.dll
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\bin\Debug\net6.0\jsonpathFinder2.pdb
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\jsonpathFinder2.csproj.AssemblyReference.cache
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\jsonpathFinder2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\jsonpathFinder2.AssemblyInfoInputs.cache
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\jsonpathFinder2.AssemblyInfo.cs
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\jsonpathFinder2.csproj.CoreCompileInputs.cache
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\jsonpathFinder2.csproj.CopyComplete
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\jsonpathFinder2.dll
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\refint\jsonpathFinder2.dll
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\jsonpathFinder2.pdb
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\jsonpathFinder2.genruntimeconfig.cache
+C:\Users\Niels.niels-pc\source\repos\jsonpathFinder2\obj\Debug\net6.0\ref\jsonpathFinder2.dll
